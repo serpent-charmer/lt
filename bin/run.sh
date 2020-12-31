@@ -1,0 +1,1 @@
+conda activate jupyter-playground && jupyter lab
